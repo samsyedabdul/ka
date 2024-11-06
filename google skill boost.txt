@@ -1,0 +1,35 @@
+ 6 1 vpc networking fundamentals
+ https://github.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/blob/main/VPC%20Networking%20Fundamentals/VPC%20Networking%20Fundamentals.md 
+
+ 7 1 vpc flow logs - analysing network traffic
+ https://github.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/blob/main/VPC%20Flow%20Logs%20-%20Analyzing%20Network%20Traffic/VPC%20Flow%20Logs%20-%20Analyzing%20Network%20Traffic.md
+
+ 7. 2 vpc network peering setup
+ https://github.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/blob/main/VPC%20Network%20Peering/VPC%20Network%20Peering.md
+
+ 11  introduction to sql for big query and cloud sq
+ https://github.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/blob/main/Introduction%20to%20SQL%20for%20BigQuery%20and%20Cloud%20SQL/Introduction%20to%20SQL%20for%20BigQuery%20and%20Cloud%20SQL.md
+
+12 securing cloud applications with identity aware proxy using zero trust
+ https://github.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/blob/main/Securing%20Cloud%20Applications%20with%20Identity%20Aware%20Proxy%20IAP%20using%20Zero-Trust/Securing%20Cloud%20Applications%20with%20Identity%20Aware%20Proxy%20(IAP)%20using%20Zero-Trust.md
+
+ 5 sample compute engine qwik start
+ https://github.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/blob/main/Compute%20Engine%20Qwik%20Start%20-%20Windows/Compute%20Engine%20Qwik%20Start%20-%20Windows.md
+
+ 6 1 sample networking fundamentals in google cloud
+ https://github.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/blob/main/Networking%20Fundamentals%20on%20Google%20Cloud%20Challenge%20Lab/Networking%20Fundamentals%20on%20Google%20Cloud%20Challenge%20Lab.md
+
+ 7 1 sample vpc networking cloud ha - vpn
+ https://github.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/blob/main/VPC%20Networking%20Cloud%20HA-VPN/VPC%20Networking%20Cloud%20HA-VPN.md
+
+ 7 2 sample cloud dns and traffic steering using geolocation policy
+ https://github.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/blob/main/Cloud%20DNS%20Traffic%20Steering%20using%20Geolocation%20Policy/Cloud%20DNS%20Traffic%20Steering%20using%20Geolocation%20Policy.md
+
+ 10 running windows containers on compute engine
+ https://github.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/blob/main/Running%20Windows%20Containers%20on%20Compute%20Engine/Running%20Windows%20Containers%20on%20Compute%20Engine.md
+
+ 10 sample speech to text api qwik start
+ https://github.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/blob/main/Google%20Cloud%20Speech-to-Text%20API%20Qwik%20Start/Google%20Cloud%20Speech-to-Text%20API%20Qwik%20Start.md
+
+12 sample build a secure google cloud network challenge lab
+ https://github.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/blob/main/Build%20a%20Secure%20Google%20Cloud%20Network%20Challenge%20Lab/Build%20a%20Secure%20Google%20Cloud%20Network%20Challenge%20Lab.md
